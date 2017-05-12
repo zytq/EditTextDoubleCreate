@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#313b47</color>
+    <color name="colorPrimaryDark">#313b47</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="background_helf_adark">#55000000</color>
+    <color name="middle_gray">#E2E2E2</color>
+
+    <color name="base_text">#1C1C1C</color>
+    <color name="middle_text">#323232</color>
+    <color name="gray_text">#919191</color>
+    <color name="hint_text">#AAAAAA</color>
+
+    <color name="green_text">#1DAA65</color>
+
+
+    <color name="orange">#FFA426</color>
+    <color name="light_red">#FC6F68</color>
+    <color name="light_green">#39CAB3</color>
+    <color name="green">#04a93e</color>
+
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="white90">#E5FFFFFF</color>
+    <color name="white70">#B2FFFFFF</color>
+    <color name="white40">#66FFFFFF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="black90">#E5000000</color>
+    <color name="black85">#D8000000</color>
+    <color name="black75">#BF000000</color>
+    <color name="black70">#B2000000</color>
+    <color name="black60">#a2000000</color>
+    <color name="black40">#66000000</color>
+    <color name="black30">#4C000000</color>
+    <color name="black25">#40000000</color>
+    <color name="black20">#33000000</color>
+    <color name="black15">#26000000</color>
+    <color name="black10">#19000000</color>
+    <color name="green40">#ADD597</color>
+    <color name="color40">#FFB8B5</color>
+    <color name="color10">#FFF5F4</color>
+    <color name="color_green">#2277a0ff</color>
+    <color name="transparent_white55">#55ffffff</color>
+    <color name="transparent_white">#aaffffff</color>
+    <color name="transparent_select">#b9c5df</color>
+
+    <color name="chat_background">#F1EFF5</color>
+
+    <!--背景色-->
+    <color name="background">#F5F5F5</color>
+    <!--字体颜色非纯黑-->
+    <color name="gray_black">#333333</color>
+    <!--深灰-->
+    <color name="dark_gray">#999999</color>
+    <!--浅灰-->
+    <color name="light_gray">#CCCCCC</color>
+
+
+    <!--浅黄-->
+    <color name="light_yellow">#FF8207</color>
+
+    <color name="light_red1">#ff5000</color>
+    <!--淡黄色-->
+    <color name="thin_yellow">#e3c098</color>
+
+    <!--线颜色-->
+    <color name="line_bg">#ECECEC</color>
+
+    <!--半透明-->
+    <color name="half_black">#50000000</color>
+    <color name="half_black_white">#50ffffff</color>
+    <color name="addresslist_blue">#006ab7</color>
+
+    <color name="red">#FF0000</color>
+
+
+
+</resources>

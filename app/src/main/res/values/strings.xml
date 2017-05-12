@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">成对创建EditText</string>
+    <!--MainActivity-->
+    <string name="come_back">返回</string>
+    <string name="shop_basic_info">商品基本信息</string>
+    <string name="add_basic_info">添加基本信息</string>
+    <string name="shop_standard_parameter">商品规格参数</string>
+    <string name="add_standard_parameter">添加规格参数</string>
+    <string name="please_input_key">请输入参数名</string>
+    <string name="please_input_content">请设置参数</string>
+
+</resources>
